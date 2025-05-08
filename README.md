@@ -9,11 +9,12 @@
 - 😄 Pronouns: ... she/her
 - ⚡ Fun fact: ... A blue and fold mccaw was my child hood pet
 
-
+<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Leah123-d&show_icons=true&theme=buefy&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Leah123-d&layout=compact&langs_count=8&card_width=320" />
 </a>
+</div>
 
