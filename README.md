@@ -3,7 +3,7 @@
 <!--
 **Leah123-d/Leah123-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on ... final project
 - 🌱 I’m currently learning ... vaniall javasript basics
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... linkedIn, email 
 - 😄 Pronouns: ... she/her
 - ⚡ Fun fact: ... A blue and fold mccaw was my child hood pet
--->
+
