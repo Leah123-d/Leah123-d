@@ -1,14 +1,13 @@
 ![Header](https://github.com/user-attachments/assets/77405b88-3dc0-4e2a-9044-ff98e2aafeb7)
 
-- 🔭 I’m currently working on ... final project
-- 🌱 I’m currently learning ... vaniall javasript basics
-- 👯 I’m looking to collaborate on ... opensource projects
-- 🤔 I’m looking for help with ... React best practices
-- 💬 Ask me about ... my synthesizer project
-- 📫 How to reach me: ... linkedIn, email 
+- 🔭 I’m currently working on ... My final project for Techtonica's full-stack web-developer bootcamp. Check it out [here](https://github.com/Leah123-d/VSpice).
+- 🌱 I’m currently learning ... Re-enforcing the basics, will be taking this [course](https://javascript30.com/) on Vanilla JavaScript.
+- 👯 I’m looking to collaborate on ... Open Source Projects.
+- 🤔 I’m looking for help with ... React project industry standards for building a project. 
+- 💬 Ask me about ... My 6-step Synthesizer and how I built it! 
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/leah-p-tech/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
 - 😄 Pronouns: ... she/her
-- ⚡ Fun fact: ... A blue and fold mccaw was my child hood pet
-
+-  🦜 Fun fact: ... My childhood pet was a Blue-and-gold macaw
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
@@ -34,10 +33,6 @@
 ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
-### Socials 
-<a href="https://www.linkedin.com/in/leah-p-tech/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
-
 <table>
   
   <tr>
@@ -53,5 +48,3 @@
     </td>
   </tr>
 </table>
-
-
