@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**Leah123-d/Leah123-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:-->
+![Header](https://github.com/user-attachments/assets/77405b88-3dc0-4e2a-9044-ff98e2aafeb7)
 
 - 🔭 I’m currently working on ... final project
 - 🌱 I’m currently learning ... vaniall javasript basics
