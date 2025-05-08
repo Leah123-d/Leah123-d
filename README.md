@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on ... Open Source Projects.
 - 🤔 I’m looking for help with ... React project industry standards for building a project. 
 - 💬 Ask me about ... My 6-step Synthesizer and how I built it! 
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/leah-p-tech/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/leah-p-tech/)
 - 😄 Pronouns: ... she/her
 -  🦜 Fun fact: ... My childhood pet was a Blue-and-gold macaw
 
