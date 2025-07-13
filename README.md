@@ -1,6 +1,6 @@
-![Header](https://github.com/user-attachments/assets/77405b88-3dc0-4e2a-9044-ff98e2aafeb7)
+<img width="880" height="200" alt="github-header-image" src="https://github.com/user-attachments/assets/f8d62c8e-fc1a-4624-8602-52873778945a" />
 
-- 🔭 I’m currently working on ... My final project for Techtonica's full-stack web-developer bootcamp. Check it out [here](https://github.com/Leah123-d/VSpice).
+- 🔭 I’m currently working on ... Building a calendar app.
 - 🌱 I’m currently learning ... Re-enforcing the basics, will be taking this [course](https://javascript30.com/) on Vanilla JavaScript.
 - 👯 I’m looking to collaborate on ... Open Source Projects.
 - 🤔 I’m looking for help with ... React project industry standards for building a project. 
