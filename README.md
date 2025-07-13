@@ -1,14 +1,14 @@
 <img width="772" height="200" alt="github-header-image" src="https://github.com/user-attachments/assets/437664c3-2268-4eb4-9814-f92806b31aa6" />
 
-🔭 I’m currently working on ... Building a calendar app. <br>
-🌱 I’m currently learning ... Re-enforcing the basics, will be taking this [course](https://javascript30.com/) on Vanilla JavaScript.<br>
-👯 I’m looking to collaborate on ... Open Source Projects.<br>
-🤔 I’m looking for help with ... React project industry standards for building a project.<br>
-💬 Ask me about ... My 6-step Synthesizer and how I built it!<br>
+🔭 I’m currently working on... Building a calendar app. <br>
+🌱 I’m currently learning... Re-enforcing the basics, will be taking this [course](https://javascript30.com/) on Vanilla JavaScript.<br>
+👯 I’m looking to collaborate on... Open Source Projects.<br>
+🤔 I’m looking for help with... React project industry standards for building a project.<br>
+💬 Ask me about... My 6-step Synthesizer and how I built it!<br>
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/leah-p-tech/)<br>
 📄 Here's my [resume](https://leah123-d.github.io/resume/)<br>
-😄 Pronouns: ... she/her<br>
-🦜 Fun fact: ... My childhood pet was a Blue-and-gold macaw<br>
+😄 Pronouns: she/her<br>
+🦜 Fun fact: My childhood pet was a Blue-and-gold macaw<br>
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
