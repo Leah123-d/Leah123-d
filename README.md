@@ -6,7 +6,7 @@
 🤔 I’m looking for help with ... React project industry standards for building a project.<br>
 💬 Ask me about ... My 6-step Synthesizer and how I built it!<br>
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/leah-p-tech/)<br>
-📄 Here's my [resume](https://leah123-d.github.io/resume/)
+📄 Here's my [resume](https://leah123-d.github.io/resume/)<br>
 😄 Pronouns: ... she/her<br>
 🦜 Fun fact: ... My childhood pet was a Blue-and-gold macaw<br>
 
